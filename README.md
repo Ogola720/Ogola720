@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ogola_720
 - 👀 I’m interested in web design,cyber security and IoT(INTENET OF THINGS)
-- 🌱 I’m currently learning .python..
+- 🌱 I’m currently learning SQL,Python and OSPEC
 - 💞️ I’m looking to collaborate on maters on latest trends in maters of cyber security and python related projects.
 - 📫 How to reach me : via email; ayieng.peter@gmail.com...
 - 😄 Pronouns: .he/him..
