@@ -15,9 +15,11 @@
   <img src="https://img.shields.io/badge/Web%20Design-FF2D20?style=for-the-badge&logo=adobexd&logoColor=white" alt="Web Design" />
   <img src="https://img.shields.io/badge/Cyber%20Security-4EA94B?style=for-the-badge&logo=cybersecurity&logoColor=white" alt="Cyber Security" />
   <img src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT" />
+  <img src="https://img.shields.io/badge/AI-Blue?style=for-the-badge&logo=AI&logoColor=white" alt="AI" />
+  
 </p>
 
-- 👀 I'm passionate about **Web Design**, **Cyber Security**, and **IoT (Internet of Things)**
+- 👀 I'm passionate about **Web Design**, **Cyber Security**, AI/ML and **IoT (Internet of Things)**
 
 ## 🌱 Currently Learning
 
@@ -25,6 +27,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/OSCP-FF6F00?style=for-the-badge&logo=offensive-security&logoColor=white" alt="OSCP" />
+   <img src="https://img.shields.io/badge/AI&ML-3776AB?style=for-the-badge&logo=AI&ML&logoColor=white" alt="AI&ML" />
 </p>
 
 ## 🤝 Collaboration
